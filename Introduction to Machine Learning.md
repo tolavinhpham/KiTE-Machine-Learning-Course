@@ -1,6 +1,3 @@
----
-Last edited time: 17/07/2024
----
 # Introduction
 
 Until recently, nearly every computer program that you might have interacted with during an ordinary day was coded up as a rigid set of rules specifying precisely how it should behave.
